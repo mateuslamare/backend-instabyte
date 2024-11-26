@@ -1,6 +1,3 @@
-Aqui está um texto elaborado para o README do seu projeto, destacando as tecnologias e o que foi desenvolvido:
-
----
 
 # 📸 Instabyte - Backend com Integração de IA
 
